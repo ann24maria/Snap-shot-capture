@@ -26,7 +26,7 @@ def take_snapshot():
 	cv2.destroyAllWindows()
 
 def upload_file (img_name):
-	access_token = "sl.BCwRWD_l9t8yTwzovAzwoZg73O7BUsa9yxHVatql8YMmrOeLbPRlmZ_ZS_lnBN7eo0xEliAYlFRexZcY62jDgahU2nj8OxwoveHqE25U_7IP2vtZDC_AgQ67xTHfVFApqLpx1SY"
+	access_token = "YOUR TOKEN GOES HERE"
 	file =img_name 
 	file_from= file
 	file_to="/testFolder/"+(img_name) 
